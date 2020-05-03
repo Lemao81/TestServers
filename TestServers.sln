@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSentEventsServer", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServer", "SignalRServer\SignalRServer.csproj", "{A52BB075-AF9B-458B-9CDD-F879E74F3F27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockingServer", "MockingServer\MockingServer.csproj", "{A5301EDA-6568-4EB7-B3D7-9767F099BF2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A52BB075-AF9B-458B-9CDD-F879E74F3F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A52BB075-AF9B-458B-9CDD-F879E74F3F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A52BB075-AF9B-458B-9CDD-F879E74F3F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5301EDA-6568-4EB7-B3D7-9767F099BF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5301EDA-6568-4EB7-B3D7-9767F099BF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5301EDA-6568-4EB7-B3D7-9767F099BF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5301EDA-6568-4EB7-B3D7-9767F099BF2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
